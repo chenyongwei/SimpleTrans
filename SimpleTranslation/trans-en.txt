@@ -1,0 +1,3 @@
+翻译1=>Trans 1
+翻译2=>Trans2
+翻译3=>Trans3
